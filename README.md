@@ -8,8 +8,8 @@ In this study, we investigate using graph neural network (GNN) representations t
 The submitted notebooks provide a detailed, step-by-step implementation of our keyphrase extraction method for long documents using the [SemEval2010](https://huggingface.co/datasets/midas/semeval2010) dataset and Bloomberg's language model [KBIR](https://huggingface.co/bloomberg/KBIR) as the basis for the examples. Additionally, we provide a long document fine-tuning procedure for the model, excluding the use of graph embeddings, specifically designed for benchmarking purposes. The methodology we present allows for easy replication on various models and datasets by adjusting the relevant parameters. These notebooks are compatible with both Google Colab and local machines, meeting or exceeding the necessary specifications, ensuring seamless execution on either platform without any compatibility concerns.
 
 ## Link to Google Colab notebooks
-- [Enhancing Keyphrase Extraction from Long Documents with Graph Embeddings - Fintune KBIR with Graph Embeddings in SemEval2010](https://drive.google.com/file/d/17iseCNZoKJCsoQciMESwTL34sGjmwmqc/view?usp=sharing)
-- [Enhancing Keyphrase Extraction from Long Documents with Graph Embeddings - Fintune KBIR in SemEval2010](https://drive.google.com/file/d/1zaUWggRtEauzhbKmNUALrdoC3k7FRqEx/view?usp=sharing)
+- [Enhancing Keyphrase Extraction from Long Documents with Graph Embeddings - Fintune KBIR with Graph Embeddings in SemEval2010](https://colab.research.google.com/drive/17iseCNZoKJCsoQciMESwTL34sGjmwmqc)
+- [Enhancing Keyphrase Extraction from Long Documents with Graph Embeddings - Fintune KBIR in SemEval2010](https://colab.research.google.com/drive/1zaUWggRtEauzhbKmNUALrdoC3k7FRqEx)
 
 ## Reference
 @misc{martínezcruz2023enhancing,
